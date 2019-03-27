@@ -1,9 +1,9 @@
 import java.util.Scanner;
 public class C3PA2 {
-    public static void println(String input) {
+    private static void println(String input) {
         System.out.println(input);
     }
-    public static void print(String input) {
+    private static void print(String input) {
         System.out.print(input);
     }
     public static void main( String[] args) {
