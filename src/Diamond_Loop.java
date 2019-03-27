@@ -1,5 +1,5 @@
 public class Diamond_Loop {
-    public static void print(String input) {
+    static void print(String input) {
         System.out.print(input);
     }
     public static void printDiamondLoop(int size) {
