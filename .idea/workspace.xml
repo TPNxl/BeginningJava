@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c153dcc-3532-4079-89d5-7a210a5746c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/challenge1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kaden_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scratchbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scratchbook.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Scratchbook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="368">
+              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -31,17 +33,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Diamond.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1888">
+            <state relative-caret-position="609">
               <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Challenge1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+            <state relative-caret-position="48">
+              <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+              <folding>
+                <element signature="method#challengeBottom#0;class#Challenge1#0" />
+                <element signature="method#challengeTop#0;class#Challenge1#0" />
+                <element signature="method#challengeLine#0;class#Challenge1#0" />
+                <element signature="method#printChallenge#0;class#Challenge1#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kaden_test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,7 +76,6 @@
               <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
               <folding>
                 <element signature="method#top#0;class#challenge1_1#0" />
-                <element signature="e#282#327#1" />
                 <element signature="method#line#0;class#challenge1_1#0" />
                 <element signature="method#bottom#0;class#challenge1_1#0" />
                 <element signature="method#thick#0;class#challenge1_1#0" />
@@ -121,9 +143,10 @@
         <option value="$PROJECT_DIR$/src/DiamondGeneric.java" />
         <option value="$PROJECT_DIR$/src/printingThings.java" />
         <option value="$PROJECT_DIR$/src/Diamond.java" />
-        <option value="$PROJECT_DIR$/src/Scratchbook.java" />
         <option value="$PROJECT_DIR$/src/Challenge1.java" />
         <option value="$PROJECT_DIR$/src/challenge1_1.java" />
+        <option value="$PROJECT_DIR$/src/kaden_test.java" />
+        <option value="$PROJECT_DIR$/src/Scratchbook.java" />
       </list>
     </option>
   </component>
@@ -140,8 +163,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,7 +194,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553737143566" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553818064925" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -192,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Challenge1">
+  <component name="RunManager" selected="Application.Scratchbook">
     <configuration name="Challenge1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Challenge1" />
       <module name="HelloWorld" />
@@ -202,13 +225,6 @@
     </configuration>
     <configuration name="DiamondGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DiamondGeneric" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DiamondStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DiamondStar" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -230,20 +246,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="kaden_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kaden_test" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Scratchbook" />
-      <item itemvalue="Application.DiamondStar" />
       <item itemvalue="Application.DiamondGeneric" />
       <item itemvalue="Application.Challenge1" />
       <item itemvalue="Application.challenge1_1" />
+      <item itemvalue="Application.kaden_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Scratchbook" />
+        <item itemvalue="Application.kaden_test" />
         <item itemvalue="Application.Challenge1" />
         <item itemvalue="Application.challenge1_1" />
-        <item itemvalue="Application.Scratchbook" />
         <item itemvalue="Application.DiamondGeneric" />
-        <item itemvalue="Application.DiamondStar" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +301,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28997868" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29317698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -394,9 +417,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Challenge2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Challenge2.jpg" />
     <entry file="file://$PROJECT_DIR$/src/Convert/AreaCircle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -422,24 +443,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/printingThings.java" />
-    <entry file="file://$PROJECT_DIR$/src/Scratchbook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Diamond.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1888">
-          <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/C3PA2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kaden_test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -449,7 +469,6 @@
           <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
           <folding>
             <element signature="method#top#0;class#challenge1_1#0" />
-            <element signature="e#282#327#1" />
             <element signature="method#line#0;class#challenge1_1#0" />
             <element signature="method#bottom#0;class#challenge1_1#0" />
             <element signature="method#thick#0;class#challenge1_1#0" />
@@ -459,8 +478,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Challenge1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        <state relative-caret-position="48">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <element signature="method#challengeBottom#0;class#Challenge1#0" />
+            <element signature="method#challengeTop#0;class#Challenge1#0" />
+            <element signature="method#challengeLine#0;class#Challenge1#0" />
+            <element signature="method#printChallenge#0;class#Challenge1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Diamond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Scratchbook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
         </state>
       </provider>
     </entry>
