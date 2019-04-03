@@ -1,3 +1,4 @@
+package challenges;
 public class Challenge1 {
     private static void print(String input) {
         System.out.print(input);

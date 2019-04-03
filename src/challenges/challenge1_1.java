@@ -1,3 +1,4 @@
+package challenges;
 public class challenge1_1 {
     static final int size = 5;
     private static void print(String input) {

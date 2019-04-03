@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c153dcc-3532-4079-89d5-7a210a5746c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lanterns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/averageweather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestingMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gangstaName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Scratchbook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/Scratchbook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Scratchbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scratchbook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Challenge1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/challenge1_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/kaden_test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Challenge1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/challenges/Challenge1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenge1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/challenges/challenge1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kaden_test.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,67 +28,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Scratchbook.java">
+        <entry file="file://$PROJECT_DIR$/src/challenges/Challenge1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lanterns.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SumNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/averageweather.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Convert/BinaryConversion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Diamond.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1888">
-              <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Challenge1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
               <folding>
                 <element signature="method#challengeBottom#0;class#Challenge1#0" />
                 <element signature="method#challengeTop#0;class#Challenge1#0" />
@@ -97,25 +43,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kaden_test.java">
+        <entry file="file://$PROJECT_DIR$/src/challenges/challenge1_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
-              <folding>
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#128#129#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/challenge1_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
               <folding>
                 <element signature="method#top#0;class#challenge1_1#0" />
                 <element signature="method#line#0;class#challenge1_1#0" />
@@ -126,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/C3PA2.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gangstaName.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="192">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -185,14 +116,17 @@
         <option value="$PROJECT_DIR$/src/DiamondGeneric.java" />
         <option value="$PROJECT_DIR$/src/printingThings.java" />
         <option value="$PROJECT_DIR$/src/Diamond.java" />
-        <option value="$PROJECT_DIR$/src/Challenge1.java" />
-        <option value="$PROJECT_DIR$/src/challenge1_1.java" />
         <option value="$PROJECT_DIR$/src/kaden_test.java" />
         <option value="$PROJECT_DIR$/src/Scratchbook.java" />
         <option value="$PROJECT_DIR$/src/averageweather.java" />
         <option value="$PROJECT_DIR$/src/Lanterns.java" />
         <option value="$PROJECT_DIR$/src/Scanner_Sum.java" />
         <option value="$PROJECT_DIR$/src/SumNumbers.java" />
+        <option value="$PROJECT_DIR$/src/TestingMath.java" />
+        <option value="$PROJECT_DIR$/src/Challenge1.java" />
+        <option value="$PROJECT_DIR$/src/challenge1_1.java" />
+        <option value="$PROJECT_DIR$/src/String_ScannerTest.java" />
+        <option value="$PROJECT_DIR$/src/gangstaName.java" />
       </list>
     </option>
   </component>
@@ -247,7 +181,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554159287429" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554311701314" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -268,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumNumbers">
+  <component name="RunManager" selected="Application.gangstaName">
     <configuration name="BinaryConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Convert.BinaryConversion" />
       <module name="HelloWorld" />
@@ -289,15 +223,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scratchbook" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Scratchbook" />
-      <module name="HelloWorld" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SumNumbers" />
       <module name="HelloWorld" />
@@ -305,27 +230,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="averageweather" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="averageweather" />
+    <configuration name="TestingMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestingMath" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gangstaName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gangstaName" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Scratchbook" />
-      <item itemvalue="Application.averageweather" />
       <item itemvalue="Application.BinaryConversion" />
       <item itemvalue="Application.Lanterns" />
       <item itemvalue="Application.SumNumbers" />
+      <item itemvalue="Application.TestingMath" />
+      <item itemvalue="Application.gangstaName" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.gangstaName" />
+        <item itemvalue="Application.TestingMath" />
         <item itemvalue="Application.SumNumbers" />
         <item itemvalue="Application.Lanterns" />
         <item itemvalue="Application.BinaryConversion" />
-        <item itemvalue="Application.averageweather" />
-        <item itemvalue="Application.Scratchbook" />
       </list>
     </recent_temporary>
   </component>
@@ -359,8 +291,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1933" height="1093" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25333333" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25866666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -370,7 +303,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" x="23" y="382" width="1875" height="317" id="Run" maximized="true" order="2" sideWeight="0.49973333" weight="0.33333334" />
+      <window_info active="true" anchor="bottom" x="23" y="382" width="1875" height="317" id="Run" maximized="true" order="2" sideWeight="0.49973333" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -499,6 +432,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lanterns.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SumNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestingMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/averageweather.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -518,15 +472,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Diamond.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1888">
+        <state relative-caret-position="883">
           <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Challenge1.java">
+    <entry file="file://$PROJECT_DIR$/src/C3PA2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+        <state relative-caret-position="112">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/challenges/Challenge1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
           <folding>
             <element signature="method#challengeBottom#0;class#Challenge1#0" />
             <element signature="method#challengeTop#0;class#Challenge1#0" />
@@ -538,7 +499,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kaden_test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="432">
           <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
           <folding>
             <element signature="e#108#109#0" expanded="true" />
@@ -549,10 +510,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/challenge1_1.java">
+    <entry file="file://$PROJECT_DIR$/src/String_ScannerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+        <state relative-caret-position="80">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/challenges/challenge1_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
           <folding>
             <element signature="method#top#0;class#challenge1_1#0" />
             <element signature="method#line#0;class#challenge1_1#0" />
@@ -562,24 +530,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/C3PA2.java">
+    <entry file="file://$PROJECT_DIR$/src/gangstaName.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lanterns.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SumNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        <state relative-caret-position="192">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
