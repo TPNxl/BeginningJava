@@ -8,6 +8,6 @@ public class gangstaName {
         sc.close();
         String firstName = input.substring(0, input.indexOf(" "));
         String lastName = input.substring(input.indexOf(" ")+1);
-        System.out.println("Your gangsta name is \"" + firstName.charAt(0) + ". Diddy "+lastName.toUpperCase() + " " + firstName+"-izzle\"");
+        System.out.println("Your gangsta name is \"" + firstName.charAt(0) + ". Diddy "+lastName.toUpperCase() + " " + firstName + "-izzle\"");
     }
 }
