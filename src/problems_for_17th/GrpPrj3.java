@@ -1,4 +1,4 @@
-package problems_for_16th;
+package problems_for_17th;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

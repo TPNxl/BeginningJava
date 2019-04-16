@@ -1,4 +1,4 @@
-package problems_for_16th.quadratic;
+package problems_for_17th.quadratic;
 
 public class ComplexPair {
     private Complex c1;
@@ -30,6 +30,17 @@ public class ComplexPair {
     public String toString() {
         return "C1: " + c1.toString() + " C2: " + c2.toString();
     }
-
+    public boolean equals(Object o) {
+        if(!(o instanceof ComplexPair)) {
+            return false;
+        } else {
+            ComplexPair cpo = (ComplexPair)o;
+            if(cpo.c1re() == c1.re() && cpo.c1im() == c1.im() && cpo.c2re() == c2.re() && cpo.c2im() == c2.im()) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    }
 
 }

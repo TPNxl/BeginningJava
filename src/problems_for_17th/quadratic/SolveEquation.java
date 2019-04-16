@@ -1,4 +1,4 @@
-package problems_for_16th.quadratic;
+package problems_for_17th.quadratic;
 
 import java.util.Scanner;
 
@@ -23,14 +23,11 @@ public class SolveEquation {
         }
         if(q.a() == 0) {
             print("\n");
-        }
-        else if(q.disc() == 0) {
+        } else if(q.disc() == 0) {
             print("two identical real root\n");
-        }
-        else if(q.disc() > 0) {
+        } else if(q.disc() > 0) {
             print("two real roots\n");
-        }
-        else if(q.disc() < 0) {
+        } else if(q.disc() < 0) {
             print("two complex roots\n");
         }
         print("The roots are: \n" + q.roots());

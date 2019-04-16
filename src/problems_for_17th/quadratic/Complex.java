@@ -1,4 +1,4 @@
-package problems_for_16th.quadratic;
+package problems_for_17th.quadratic;
 
 public class Complex {
     private double re;
@@ -35,13 +35,11 @@ public class Complex {
     public boolean equals(Object o) {
         if(!(o instanceof Complex)) {
             return false;
-        }
-        else {
+        } else {
             Complex comO = (Complex)o;
             if(comO.re == re && comO.im == im) {
                 return true;
-            }
-            else {
+            } else {
                 return false;
             }
         }

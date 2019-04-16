@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c153dcc-3532-4079-89d5-7a210a5746c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/points/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/points/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems_for_16th/Circle/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems_for_16th/Circle/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems_for_16th/GrpPrj3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems_for_16th/quadratic/Complex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems_for_16th/quadratic/ComplexPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems_for_16th/quadratic/Quadratic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems_for_16th/quadratic/SolveEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems_for_17th/descriptions.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problems_for_16th/Circle/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_for_17th/Circle/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problems_for_16th/Circle/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_for_17th/Circle/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problems_for_16th/GrpPrj3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_for_17th/GrpPrj3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problems_for_16th/quadratic/Complex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_for_17th/quadratic/Complex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problems_for_16th/quadratic/ComplexPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_for_17th/quadratic/ComplexPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problems_for_16th/quadratic/Quadratic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_for_17th/quadratic/Quadratic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problems_for_16th/quadratic/SolveEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_for_17th/quadratic/SolveEquation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,10 +28,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problems_for_16th/quadratic/Complex.java">
+        <entry file="file://$PROJECT_DIR$/src/problems_for_17th/quadratic/Complex.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
-              <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+              <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
               <folding>
                 <element signature="e#407#408#0" expanded="true" />
                 <element signature="e#433#434#0" expanded="true" />
@@ -41,20 +40,41 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/problems_for_17th/quadratic/ComplexPair.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="592">
+              <caret line="37" column="50" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="50" />
+              <folding>
+                <element signature="e#491#492#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
+                <element signature="e#605#606#0" expanded="true" />
+                <element signature="e#635#636#0" expanded="true" />
+                <element signature="e#662#663#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#723#724#0" expanded="true" />
+                <element signature="e#794#795#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/problems_for_16th/quadratic/SolveEquation.java">
+        <entry file="file://$PROJECT_DIR$/src/problems_for_17th/quadratic/SolveEquation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
-              <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problems_for_16th/quadratic/Quadratic.java">
+        <entry file="file://$PROJECT_DIR$/src/problems_for_17th/quadratic/Quadratic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="66" column="23" lean-forward="true" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+            <state relative-caret-position="496">
+              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
               <folding>
                 <element signature="e#337#338#0" expanded="true" />
                 <element signature="e#361#362#0" expanded="true" />
@@ -72,13 +92,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problems_for_16th/GrpPrj3.java">
+        <entry file="file://$PROJECT_DIR$/src/problems_for_17th/descriptions.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="608">
+              <caret line="38" column="67" selection-start-line="38" selection-start-column="67" selection-end-line="38" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -107,8 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test.java" />
-        <option value="$PROJECT_DIR$/src/AreaPrograms.java" />
         <option value="$PROJECT_DIR$/src/AreaPrograms2.java" />
         <option value="$PROJECT_DIR$/src/AreaCircle2.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
@@ -152,10 +167,14 @@
         <option value="$PROJECT_DIR$/src/problems_for_16th/GrpPrj3.java" />
         <option value="$PROJECT_DIR$/src/problems_for_16th/quadratic/ComplexPair.java" />
         <option value="$PROJECT_DIR$/src/problems_for_16th/quadratic/Quadratic.java" />
-        <option value="$PROJECT_DIR$/src/problems_for_16th/quadratic/Complex.java" />
         <option value="$PROJECT_DIR$/src/problems_for_16th/quadratic/SolveEquation.java" />
+        <option value="$PROJECT_DIR$/src/problems_for_16th/quadratic/Complex.java" />
         <option value="$PROJECT_DIR$/src/problems_for_16th/Circle/Circle.java" />
         <option value="$PROJECT_DIR$/src/problems_for_16th/Circle/Client.java" />
+        <option value="$PROJECT_DIR$/src/problems_for_16th/descriptions.txt" />
+        <option value="$PROJECT_DIR$/src/problems_for_17th/Circle/Client.java" />
+        <option value="$PROJECT_DIR$/src/problems_for_17th/quadratic/ComplexPair.java" />
+        <option value="$PROJECT_DIR$/src/problems_for_17th/descriptions.txt" />
       </list>
     </option>
   </component>
@@ -207,20 +226,20 @@
               <item name="BeginningJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="BeginningJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="problems_for_16th" type="462c0819:PsiDirectoryNode" />
+              <item name="problems_for_17th" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BeginningJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="BeginningJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="problems_for_16th" type="462c0819:PsiDirectoryNode" />
+              <item name="problems_for_17th" type="462c0819:PsiDirectoryNode" />
               <item name="Circle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BeginningJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="BeginningJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="problems_for_16th" type="462c0819:PsiDirectoryNode" />
+              <item name="problems_for_17th" type="462c0819:PsiDirectoryNode" />
               <item name="quadratic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -233,8 +252,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -242,7 +261,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555381625022" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555447865904" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -263,7 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (2)">
+  <component name="RunManager" selected="Application.SolveEquation">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="points.Client" />
       <module name="HelloWorld" />
@@ -277,12 +296,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems_for_16th.Circle.Client" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems_for_17th.Circle.Client" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problems_for_16th.Circle.*" />
+          <option name="PATTERN" value="problems_for_17th.Circle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,11 +336,11 @@
       </method>
     </configuration>
     <configuration name="GrpPrj3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems_for_16th.GrpPrj3" />
+      <option name="MAIN_CLASS_NAME" value="problems_for_17th.GrpPrj3" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problems_for_16th.Circle.*" />
+          <option name="PATTERN" value="problems_for_17th.Circle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,11 +349,11 @@
       </method>
     </configuration>
     <configuration name="SolveEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems_for_16th.quadratic.SolveEquation" />
+      <option name="MAIN_CLASS_NAME" value="problems_for_17th.quadratic.SolveEquation" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problems_for_16th.quadratic.*" />
+          <option name="PATTERN" value="problems_for_17th.quadratic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,9 +370,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.SolveEquation" />
         <item itemvalue="Application.GrpPrj3" />
+        <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
       </list>
@@ -405,14 +424,21 @@
       <option name="project" value="LOCAL" />
       <updated>1554405346238</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="asdjasdj">
+      <created>1555381944419</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555381944419</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26918977" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.271855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -421,8 +447,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32936507" />
-      <window_info anchor="bottom" x="23" y="382" width="1875" height="317" id="Run" maximized="true" order="2" sideWeight="0.49973333" weight="0.33333334" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32936507" />
+      <window_info active="true" anchor="bottom" x="23" y="382" width="1875" height="317" id="Run" maximized="true" order="2" sideWeight="0.49973333" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -642,42 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems_for_16th/Circle/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="method#setRadius#0;class#Circle#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems_for_16th/Circle/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems_for_16th/quadratic/ComplexPair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#634#635#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/challenges/challenge1_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
@@ -704,10 +694,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems_for_16th/quadratic/Complex.java">
+    <entry file="file://$PROJECT_DIR$/src/problems_for_17th/GrpPrj3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems_for_17th/Circle/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="method#setRadius#0;class#Circle#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems_for_17th/Circle/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems_for_17th/quadratic/Complex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
-          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
           <folding>
             <element signature="e#407#408#0" expanded="true" />
             <element signature="e#433#434#0" expanded="true" />
@@ -715,10 +732,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems_for_16th/quadratic/Quadratic.java">
+    <entry file="file://$PROJECT_DIR$/src/problems_for_17th/quadratic/ComplexPair.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="66" column="23" lean-forward="true" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+        <state relative-caret-position="592">
+          <caret line="37" column="50" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="50" />
+          <folding>
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems_for_17th/descriptions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="38" column="67" selection-start-line="38" selection-start-column="67" selection-end-line="38" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems_for_17th/quadratic/Quadratic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
           <folding>
             <element signature="e#337#338#0" expanded="true" />
             <element signature="e#361#362#0" expanded="true" />
@@ -734,20 +777,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems_for_16th/GrpPrj3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems_for_16th/quadratic/SolveEquation.java">
+    <entry file="file://$PROJECT_DIR$/src/problems_for_17th/quadratic/SolveEquation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
         </state>
       </provider>
     </entry>

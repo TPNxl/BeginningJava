@@ -1,4 +1,4 @@
-package problems_for_16th.quadratic;
+package problems_for_17th.quadratic;
 
 public class Quadratic {
     private double a;
@@ -29,13 +29,11 @@ public class Quadratic {
     public boolean equals(Object o) {
         if(!(o instanceof Quadratic)) {
             return false;
-        }
-        else {
+        } else {
             Quadratic qO = (Quadratic)o;
             if(qO.a == a && qO.b == b && qO.c == c) {
                 return true;
-            }
-            else {
+            } else {
                 return false;
             }
         }
@@ -43,16 +41,14 @@ public class Quadratic {
     public boolean isLinear() {
         if (a == 0) {
             return true;
-        }
-        else {
+        } else {
             return false;
         }
     }
     public boolean isConst() {
         if (a == 0 && b == 0) {
             return true;
-        }
-        else {
+        } else {
             return false;
         }
     }
