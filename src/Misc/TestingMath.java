@@ -1,3 +1,5 @@
+package Misc;
+
 import java.util.Random;
 public class TestingMath {
     public static void main(String[] args) {

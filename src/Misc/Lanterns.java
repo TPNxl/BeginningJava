@@ -1,3 +1,5 @@
+package Misc;
+
 public class Lanterns {
     public static void print(String input) { System.out.print(input); // to save time
     }

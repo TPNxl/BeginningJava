@@ -1,6 +1,6 @@
-/*
+package Misc;/*
 Timmy Nadolsky
-Diamond
+Misc.Diamond
 Has a method to print a diamond, prints it 3 times
 
  */

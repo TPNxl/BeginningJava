@@ -1,5 +1,7 @@
 package problems_for_17th;
 
+// Group project 3
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 

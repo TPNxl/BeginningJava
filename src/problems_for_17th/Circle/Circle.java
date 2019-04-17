@@ -1,5 +1,7 @@
 package problems_for_17th.Circle;
 
+// Encapsulates a circle
+
 import points.Point;
 
 public class Circle {

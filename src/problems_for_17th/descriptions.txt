@@ -1,3 +1,5 @@
+These programs were all written by Timmy Nadolsky; written on 4/15/19 and 4/16/19.
+
 Here are the program descriptions:
 
 GrpPrj3.java is Unit 3 problem 78

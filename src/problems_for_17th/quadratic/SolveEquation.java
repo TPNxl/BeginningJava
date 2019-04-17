@@ -1,5 +1,7 @@
 package problems_for_17th.quadratic;
 
+// Client class for quadratic
+
 import java.util.Scanner;
 
 public class SolveEquation {

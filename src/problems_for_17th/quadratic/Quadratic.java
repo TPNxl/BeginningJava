@@ -1,5 +1,7 @@
 package problems_for_17th.quadratic;
 
+// Encapsulates a quadratic equation
+
 public class Quadratic {
     private double a;
     private double b;

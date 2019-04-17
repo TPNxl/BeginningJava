@@ -1,3 +1,5 @@
+package Misc;
+
 import java.util.Scanner;
 public class C3PA2 {
     private static void println(String input) {

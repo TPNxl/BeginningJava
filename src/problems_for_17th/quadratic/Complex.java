@@ -1,5 +1,7 @@
 package problems_for_17th.quadratic;
 
+// Encapsulates a complex number
+
 public class Complex {
     private double re;
     private double im;
@@ -44,7 +46,7 @@ public class Complex {
             }
         }
     }
-    public boolean isre() {
+    public boolean isRe() {
         if(im == 0) {
             return true;
         } else {

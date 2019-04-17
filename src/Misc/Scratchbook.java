@@ -1,6 +1,6 @@
-/*
+package Misc;/*
 Timmy Nadolsky
-Scratchbook
+Misc.Scratchbook
 
  */
 

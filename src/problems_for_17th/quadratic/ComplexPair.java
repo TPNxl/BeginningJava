@@ -1,5 +1,7 @@
 package problems_for_17th.quadratic;
 
+// Encapsulates a pair of complex numbers
+
 public class ComplexPair {
     private Complex c1;
     private Complex c2;
