@@ -1,4 +1,4 @@
-package Misc;
+package Printing;
 
 public class Lanterns {
     public static void print(String input) { System.out.print(input); // to save time
