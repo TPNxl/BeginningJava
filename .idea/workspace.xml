@@ -2,17 +2,24 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/Convert/BinaryConversion.java" description="package Convert;" line="1" />
+    <bookmark url="file://$PROJECT_DIR$/src/calculator.java" line="0" />
+    <bookmark url="file://$PROJECT_DIR$/src/grocery.java" line="10" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c153dcc-3532-4079-89d5-7a210a5746c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Misc/SmallestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/choose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Misc/guessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextTest/AveragePrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextTest/TextTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextTest/coolfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextTest/shopping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U4_5_test/names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U4_5_test/reading_file.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grocery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p6_14_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Misc/Diamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Printing/Diamond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Misc/Lanterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Printing/Lanterns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Misc/Scratchbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scratchbook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PointTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SmallestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scratchbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scratchbook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/choose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Misc/choose.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,87 +33,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Misc/SmallestNumber.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/U4_5_test/reading_file.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="256">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
               <folding>
-                <element signature="method#askInt#0;class#SmallestNumber#0" />
-                <element signature="method#askDouble#0;class#SmallestNumber#0" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test/Scanner_Date.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Misc/averageweather.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Misc/C3PA2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Printing/Diamond.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Misc/gangstaName.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Printing/Lanterns.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Scratchbook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Misc/SumNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="144">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,22 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DiamondStar.java" />
-        <option value="$PROJECT_DIR$/src/DiamondGeneric.java" />
-        <option value="$PROJECT_DIR$/src/printingThings.java" />
-        <option value="$PROJECT_DIR$/src/Diamond.java" />
-        <option value="$PROJECT_DIR$/src/kaden_test.java" />
-        <option value="$PROJECT_DIR$/src/Scratchbook.java" />
-        <option value="$PROJECT_DIR$/src/averageweather.java" />
-        <option value="$PROJECT_DIR$/src/Lanterns.java" />
-        <option value="$PROJECT_DIR$/src/Scanner_Sum.java" />
-        <option value="$PROJECT_DIR$/src/SumNumbers.java" />
-        <option value="$PROJECT_DIR$/src/TestingMath.java" />
-        <option value="$PROJECT_DIR$/src/Challenge1.java" />
-        <option value="$PROJECT_DIR$/src/challenge1_1.java" />
-        <option value="$PROJECT_DIR$/src/String_ScannerTest.java" />
-        <option value="$PROJECT_DIR$/src/gangstaName.java" />
-        <option value="$PROJECT_DIR$/src/Point.java" />
         <option value="$PROJECT_DIR$/src/point/Point.java" />
         <option value="$PROJECT_DIR$/src/point/Client.java" />
         <option value="$PROJECT_DIR$/src/points/Client.java" />
@@ -186,14 +116,29 @@
         <option value="$PROJECT_DIR$/src/Printing/Diamond.java" />
         <option value="$PROJECT_DIR$/src/Printing/Lanterns.java" />
         <option value="$PROJECT_DIR$/src/Misc/SmallestNumber.java" />
+        <option value="$PROJECT_DIR$/src/choose.java" />
+        <option value="$PROJECT_DIR$/src/guessingGame.java" />
+        <option value="$PROJECT_DIR$/src/Misc/choose.java" />
+        <option value="$PROJECT_DIR$/src/calculator.java" />
+        <option value="$PROJECT_DIR$/src/grocery.java" />
+        <option value="$PROJECT_DIR$/src/p6_14_9.java" />
+        <option value="$PROJECT_DIR$/src/coolfile.txt" />
+        <option value="$PROJECT_DIR$/src/TextTest/coolfile.txt" />
+        <option value="$PROJECT_DIR$/src/questionTest.java" />
+        <option value="$PROJECT_DIR$/src/TextTest/TextTest1.java" />
+        <option value="$PROJECT_DIR$/src/TextTest/coolfile2.txt" />
+        <option value="$PROJECT_DIR$/src/TextTest/TextTest2.java" />
+        <option value="$PROJECT_DIR$/src/TextTest/shopping.txt" />
+        <option value="$PROJECT_DIR$/src/TextTest/AveragePrice.java" />
+        <option value="$PROJECT_DIR$/src/U4_5_test/reading_file.java" />
+        <option value="$PROJECT_DIR$/src/Scratchbook.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="3866" />
-    <option name="height" value="2186" />
+    <option name="x" value="-10" />
+    <option name="width" value="1942" />
+    <option name="height" value="2172" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -203,6 +148,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,12 +167,34 @@
               <item name="BeginningJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BeginningJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeginningJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Convert" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BeginningJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeginningJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Misc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BeginningJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeginningJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TextTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BeginningJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeginningJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="U4_5_test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,7 +202,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556066874441" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557327466052" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -248,6 +217,10 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\timmy\Documents\GitHub\BeginningJava\src\U4_5_test" />
+      <recent name="C:\Users\timmy\Documents\GitHub\BeginningJava\src\TextTest" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -261,13 +234,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SmallestNumber">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="points.Client" />
+  <component name="RunManager" selected="Application.Scratchbook">
+    <configuration name="AveragePrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextTest.AveragePrice" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="points.*" />
+          <option name="PATTERN" value="TextTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,33 +248,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorldApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorldApplication" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PointTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PointTest" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SmallestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Misc.SmallestNumber" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolveEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems_for_17th.quadratic.SolveEquation" />
+    <configuration name="BinaryConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Convert.BinaryConversion" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problems_for_17th.quadratic.*" />
+          <option name="PATTERN" value="Convert.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,12 +261,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.test" />
+    <configuration name="Scratchbook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratchbook" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextTest.TextTest1" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="TextTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reading_file" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U4_5_test.reading_file" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U4_5_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,19 +295,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HelloWorldApplication" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.SmallestNumber" />
-      <item itemvalue="Application.SolveEquation" />
-      <item itemvalue="Application.PointTest" />
+      <item itemvalue="Application.Scratchbook" />
+      <item itemvalue="Application.TextTest1" />
+      <item itemvalue="Application.BinaryConversion" />
+      <item itemvalue="Application.AveragePrice" />
+      <item itemvalue="Application.reading_file" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SmallestNumber" />
-        <item itemvalue="Application.PointTest" />
-        <item itemvalue="Application.SolveEquation" />
-        <item itemvalue="Application.HelloWorldApplication" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Scratchbook" />
+        <item itemvalue="Application.reading_file" />
+        <item itemvalue="Application.AveragePrice" />
+        <item itemvalue="Application.TextTest1" />
+        <item itemvalue="Application.BinaryConversion" />
       </list>
     </recent_temporary>
   </component>
@@ -420,13 +392,21 @@
       <option name="project" value="LOCAL" />
       <updated>1556065951679</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="&#10;iojiwdqjwosda">
+      <created>1556067040560</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1556067040560</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15938166" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17324094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -436,15 +416,15 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936507" />
-      <window_info anchor="bottom" x="23" y="382" width="1875" height="317" id="Run" maximized="true" order="2" sideWeight="0.49973333" weight="0.33333334" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" x="23" y="382" width="1875" height="317" id="Run" maximized="true" order="2" sideWeight="0.4989339" visible="true" weight="0.35019842" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39958158" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5002667" side_tool="true" weight="0.32837301" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.35019842" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3263889" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32539684" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -455,7 +435,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.153125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1632" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -465,13 +445,13 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936507" />
-      <window_info anchor="bottom" x="23" y="382" width="1875" height="317" id="Run" maximized="true" order="2" sideWeight="0.49973333" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" x="23" y="382" width="1875" height="317" id="Run" maximized="true" order="2" sideWeight="0.49946696" weight="0.35146442" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5002667" side_tool="true" weight="0.32837301" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3263889" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -491,53 +471,7 @@
     <MESSAGE value="&#10;iojiwdqjwosda" />
     <option name="LAST_COMMIT_MESSAGE" value="&#10;iojiwdqjwosda" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Scratchbook.java</url>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Bank/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Convert/TemperatureConversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Convert/MetricLength.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Challenge2.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/Convert/AreaCircle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DiamondStar.java" />
-    <entry file="file://$PROJECT_DIR$/src/DiamondGeneric.java" />
-    <entry file="file://$PROJECT_DIR$/src/Diamond_Loop.java" />
-    <entry file="file://$PROJECT_DIR$/src/printingThings.java" />
-    <entry file="file://$PROJECT_DIR$/src/kaden_test.java" />
-    <entry file="file://$PROJECT_DIR$/src/String_ScannerTest.java" />
     <entry file="file://$PROJECT_DIR$/src/Bank/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1552">
@@ -562,16 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Convert/BinaryConversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -623,13 +547,6 @@
             <element signature="method#challengeLine#0;class#Challenge1#0" />
             <element signature="method#printChallenge#0;class#Challenge1#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Misc/TestingMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -729,18 +646,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HelloWorldApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#956#957#0" expanded="true" />
-            <element signature="e#984#985#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HelloWorldApplication.java" />
     <entry file="file://$PROJECT_DIR$/src/Test/Box/Box.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -812,13 +718,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/choose.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/description.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -829,17 +728,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Misc/SumNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/Misc/averageweather.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Misc/averageweather.java">
+    <entry file="file://$PROJECT_DIR$/src/Misc/C3PA2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PointTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Misc/SmallestNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="method#askInt#0;class#SmallestNumber#0" />
+            <element signature="method#askDouble#0;class#SmallestNumber#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -864,34 +775,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Misc/C3PA2.java">
+    <entry file="file://$PROJECT_DIR$/src/Misc/SumNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="64">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PointTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Misc/TestingMath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="336">
+          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Scratchbook.java">
+    <entry file="file://$PROJECT_DIR$/src/Misc/guessingGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Misc/choose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/questionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Misc/SmallestNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="160">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p6_14_9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grocery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Convert/BinaryConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
           <folding>
-            <element signature="method#askInt#0;class#SmallestNumber#0" />
-            <element signature="method#askDouble#0;class#SmallestNumber#0" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextTest/coolfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextTest/shopping.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/U4_5_test/names.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70314" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextTest/TextTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextTest/AveragePrice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="70" lean-forward="true" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/U4_5_test/reading_file.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Scratchbook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

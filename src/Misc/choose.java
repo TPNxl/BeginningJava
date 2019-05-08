@@ -1,16 +1,17 @@
-import java.math.BigInteger;
+package Misc;
+
 import java.util.Scanner;
 
 public class choose {
-    public static BigInteger factorial(BigInteger input) {
-        BigInteger result = new BigInteger("1");
-        if(input.compareTo(BigInteger.ZERO) != 1) {
-            return BigInteger.ONE;
+    public static long factorial(long input) {
+        long result = 1;
+        if(input <= 0) {
+            return 1;
         }
         else {
-            BigInteger i = new BigInteger(input.toString());
-            while(i.compareTo(BigInteger.ZERO) == 1) {
-                result = result.multiply(i);
+            while(input > 0) {
+                result*=input;
+                input--;
             }
         }
         return result;
@@ -24,12 +25,13 @@ public class choose {
         System.out.println("Enter degree");
         int degree = sc.nextInt();
         for(int i = 0; i <= degree; i++) {
-            BigInteger coefficient = BigInteger.ONE;
-            coefficient = factorial(BigInteger.valueOf(degree));
-            coefficient = coefficient.divide(factorial((BigInteger.valueOf(i)).multiply(factorial(BigInteger.valueOf(degree-i)))));
-            coefficient = coefficient.multiply(BigInteger.valueOf((long)Math.pow(a,degree-i) * (long)Math.pow(b,i)));
-            if(!(coefficient.equals(BigInteger.ONE))) {
-                System.out.print(coefficient.toString());
+            long coefficient = 1;
+            coefficient = factorial(degree)/(factorial((i))*(factorial(degree-i)));
+            coefficient = coefficient*((long)Math.pow(a,degree-i) * (long)Math.pow(b,i));
+            if(!(coefficient == 1)) {
+                if(coefficient == -1) { System.out.print("-"); }
+                else { System.out.print(coefficient); }
+
             }
             if(degree-i != 0) {
                 if(degree-i == 1) {
