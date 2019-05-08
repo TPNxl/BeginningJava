@@ -13,6 +13,5 @@ public class Scratchbook {
         print(sc.next() + "\n");
         print(sc.findWithinHorizon(y,99) + "\n");
         print(sc.next());
-
     }
 }
