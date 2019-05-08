@@ -7,10 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c153dcc-3532-4079-89d5-7a210a5746c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/U4_5_test/Price.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Scratchbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scratchbook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U4_5_test/reading_file.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U4_5_test/baby_names.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U4_5_test/Price.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U4_5_test/Price.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U4_5_test/baby_names.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U4_5_test/baby_names.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/U4_5_test/baby_names.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            <state relative-caret-position="-64">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/U4_5_test/Price.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
+            <state relative-caret-position="320">
+              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -48,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/U4_5_test/names.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="9" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="9" />
+            <state relative-caret-position="199">
+              <caret line="439" column="19" lean-forward="true" selection-start-line="439" selection-start-column="19" selection-end-line="439" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -57,11 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Scratchbook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="128">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -85,6 +82,8 @@
       <find>Blanche</find>
       <find>Christopher</find>
       <find>e 431</find>
+      <find>999</find>
+      <find>Bernita</find>
     </findStrings>
     <replaceStrings>
       <replace>print</replace>
@@ -146,8 +145,8 @@
         <option value="$PROJECT_DIR$/src/U4_5_test/reading_file.java" />
         <option value="$PROJECT_DIR$/src/U4_5_test/names.txt" />
         <option value="$PROJECT_DIR$/src/U4_5_test/Price.java" />
-        <option value="$PROJECT_DIR$/src/Scratchbook.java" />
         <option value="$PROJECT_DIR$/src/U4_5_test/baby_names.java" />
+        <option value="$PROJECT_DIR$/src/Scratchbook.java" />
       </list>
     </option>
   </component>
@@ -218,7 +217,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557330566128" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557357627555" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -250,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Scratchbook">
     <configuration name="AveragePrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TextTest.AveragePrice" />
       <module name="HelloWorld" />
@@ -319,9 +318,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Scratchbook" />
         <item itemvalue="Application.baby_names" />
         <item itemvalue="Application.Price" />
-        <item itemvalue="Application.Scratchbook" />
         <item itemvalue="Application.AveragePrice" />
         <item itemvalue="Application.TextTest1" />
       </list>
@@ -422,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557327498203</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="&#10;iojiwdqjwosda">
+      <created>1557330580870</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1557330580870</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -440,7 +446,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936507" />
       <window_info active="true" anchor="bottom" x="23" y="382" width="1875" height="317" id="Run" maximized="true" order="2" sideWeight="0.4989339" visible="true" weight="0.35019842" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39958158" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39880952" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -881,10 +887,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/U4_5_test/names.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="439" column="19" lean-forward="true" selection-start-line="439" selection-start-column="19" selection-end-line="439" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Scratchbook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="128">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/U4_5_test/baby_names.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -893,25 +913,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/U4_5_test/Price.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/U4_5_test/names.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/U4_5_test/baby_names.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="320">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
