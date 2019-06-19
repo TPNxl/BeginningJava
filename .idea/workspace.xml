@@ -4,13 +4,24 @@
     <bookmark url="file://$PROJECT_DIR$/src/Convert/BinaryConversion.java" description="package Convert;" line="1" />
     <bookmark url="file://$PROJECT_DIR$/src/calculator.java" line="0" />
     <bookmark url="file://$PROJECT_DIR$/src/grocery.java" line="10" />
+    <bookmark url="file://$PROJECT_DIR$/src/CrazyEights/Player.java" line="92" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c153dcc-3532-4079-89d5-7a210a5746c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CrazyEights/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrazyEights/Card_backup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrazyEights/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrazyEights/EightsScratchbook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrazyEights/GenerateDeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrazyEights/MainCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrazyEights/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrazyEights/TO_DOs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrazyEights/Uno_deck.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestServer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestServer/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hangman.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Scratchbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scratchbook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U4_5_test/Price.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U4_5_test/Price.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U4_5_test/baby_names.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U4_5_test/baby_names.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,10 +36,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/U4_5_test/baby_names.java">
+        <entry file="file://$PROJECT_DIR$/src/CrazyEights/MainCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-64">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="1348">
+              <caret line="125" column="30" selection-start-line="125" selection-start-column="30" selection-end-line="125" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TestServer/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TestServer/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CrazyEights/TO_DOs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CrazyEights/GenerateDeck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,28 +93,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/U4_5_test/Price.java">
+        <entry file="file://$PROJECT_DIR$/src/CrazyEights/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="192">
+              <caret line="161" column="9" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/U4_5_test/names.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="439" column="19" lean-forward="true" selection-start-line="439" selection-start-column="19" selection-end-line="439" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Scratchbook.java">
+        <entry file="file://$PROJECT_DIR$/src/CrazyEights/EightsScratchbook.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
-              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CrazyEights/Card.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1360">
+              <caret line="92" selection-start-line="92" selection-end-line="92" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Card#1;class#Card#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,9 +147,17 @@
       <find>e 431</find>
       <find>999</find>
       <find>Bernita</find>
+      <find>nextPla</find>
+      <find>MainCode.</find>
+      <find>GAME_DIRECTION</find>
+      <find>cards.get(cardPlayed)</find>
+      <find>ID == 1</find>
+      <find>Choose color</find>
     </findStrings>
     <replaceStrings>
       <replace>print</replace>
+      <replace>CURRENT_DIRECTION</replace>
+      <replace>cardPlayed</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -96,20 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/points/Point.java" />
-        <option value="$PROJECT_DIR$/src/problems_for_16th/GrpPrj3.java" />
-        <option value="$PROJECT_DIR$/src/problems_for_16th/quadratic/ComplexPair.java" />
-        <option value="$PROJECT_DIR$/src/problems_for_16th/quadratic/Quadratic.java" />
-        <option value="$PROJECT_DIR$/src/problems_for_16th/quadratic/SolveEquation.java" />
-        <option value="$PROJECT_DIR$/src/problems_for_16th/quadratic/Complex.java" />
-        <option value="$PROJECT_DIR$/src/problems_for_16th/Circle/Circle.java" />
-        <option value="$PROJECT_DIR$/src/problems_for_16th/Circle/Client.java" />
-        <option value="$PROJECT_DIR$/src/problems_for_16th/descriptions.txt" />
-        <option value="$PROJECT_DIR$/src/problems_for_17th/quadratic/SolveEquation.java" />
-        <option value="$PROJECT_DIR$/src/problems_for_17th/quadratic/ComplexPair.java" />
-        <option value="$PROJECT_DIR$/src/problems_for_17th/quadratic/Quadratic.java" />
-        <option value="$PROJECT_DIR$/src/problems_for_17th/Circle/Circle.java" />
-        <option value="$PROJECT_DIR$/src/problems_for_17th/Circle/Client.java" />
         <option value="$PROJECT_DIR$/src/problems_for_17th/GrpPrj3.java" />
         <option value="$PROJECT_DIR$/src/problems_for_17th/descriptions.txt" />
         <option value="$PROJECT_DIR$/src/problems_for_17th/quadratic/Complex.java" />
@@ -146,14 +203,29 @@
         <option value="$PROJECT_DIR$/src/U4_5_test/names.txt" />
         <option value="$PROJECT_DIR$/src/U4_5_test/Price.java" />
         <option value="$PROJECT_DIR$/src/U4_5_test/baby_names.java" />
+        <option value="$PROJECT_DIR$/src/CrazyEights/Backup_player.txt" />
+        <option value="$PROJECT_DIR$/src/CrazyEights/Backup_deck.txt" />
+        <option value="$PROJECT_DIR$/src/CrazyEights/Card_backup.java" />
+        <option value="$PROJECT_DIR$/src/CrazyEights/Deck.java" />
+        <option value="$PROJECT_DIR$/src/CrazyEights/Uno_deck.txt" />
+        <option value="$PROJECT_DIR$/src/CrazyEights/GenerateDeck.java" />
+        <option value="$PROJECT_DIR$/src/CrazyEights/TO_DOs" />
+        <option value="$PROJECT_DIR$/src/CrazyEights/EightsScratchbook.java" />
+        <option value="$PROJECT_DIR$/src/CrazyEights/Card.java" />
+        <option value="$PROJECT_DIR$/src/hangman.java" />
         <option value="$PROJECT_DIR$/src/Scratchbook.java" />
+        <option value="$PROJECT_DIR$/src/CrazyEights/Player.java" />
+        <option value="$PROJECT_DIR$/src/CrazyEights/MainCode.java" />
+        <option value="$PROJECT_DIR$/src/TestServer/Server.java" />
+        <option value="$PROJECT_DIR$/src/TestServer/Client.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="-10" />
-    <option name="width" value="1942" />
-    <option name="height" value="2172" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="3866" />
+    <option name="height" value="2186" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -163,7 +235,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -186,30 +257,25 @@
               <item name="BeginningJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="BeginningJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Convert" type="462c0819:PsiDirectoryNode" />
+              <item name="CrazyEights" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BeginningJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="BeginningJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Misc" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BeginningJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="BeginningJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TextTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BeginningJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeginningJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="U4_5_test" type="462c0819:PsiDirectoryNode" />
+              <item name="TestServer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,7 +283,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557357627555" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557846920572" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -249,13 +315,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Scratchbook">
-    <configuration name="AveragePrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TextTest.AveragePrice" />
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestServer.Client" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TextTest.*" />
+          <option name="PATTERN" value="TestServer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,12 +329,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Price" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U4_5_test.Price" />
+    <configuration name="MainCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CrazyEights.MainCode" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U4_5_test.*" />
+          <option name="PATTERN" value="CrazyEights.Card" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,12 +349,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TextTest.TextTest1" />
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestServer.Server" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TextTest.*" />
+          <option name="PATTERN" value="TestServer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,33 +362,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="baby_names" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U4_5_test.baby_names" />
+    <configuration name="hangman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hangman" />
       <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="U4_5_test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.MainCode" />
       <item itemvalue="Application.Scratchbook" />
-      <item itemvalue="Application.TextTest1" />
-      <item itemvalue="Application.AveragePrice" />
-      <item itemvalue="Application.baby_names" />
-      <item itemvalue="Application.Price" />
+      <item itemvalue="Application.hangman" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.MainCode" />
         <item itemvalue="Application.Scratchbook" />
-        <item itemvalue="Application.baby_names" />
-        <item itemvalue="Application.Price" />
-        <item itemvalue="Application.AveragePrice" />
-        <item itemvalue="Application.TextTest1" />
+        <item itemvalue="Application.hangman" />
       </list>
     </recent_temporary>
   </component>
@@ -428,14 +488,21 @@
       <option name="project" value="LOCAL" />
       <updated>1557330580870</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="&#10;iojiwdqjwosda">
+      <created>1557357655679</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1557357655679</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="-6" y="-6" width="1933" height="1093" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17324094" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -445,15 +512,15 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936507" />
-      <window_info active="true" anchor="bottom" x="23" y="382" width="1875" height="317" id="Run" maximized="true" order="2" sideWeight="0.4989339" visible="true" weight="0.35019842" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39880952" />
+      <window_info anchor="bottom" x="23" y="382" width="1875" height="317" id="Run" maximized="true" order="2" sideWeight="0.4989339" weight="0.34787124" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39875388" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" weight="0.35019842" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32539684" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3229491" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -500,142 +567,19 @@
     <MESSAGE value="&#10;iojiwdqjwosda" />
     <option name="LAST_COMMIT_MESSAGE" value="&#10;iojiwdqjwosda" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CrazyEights/Player.java</url>
+          <line>174</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/points/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7408">
-          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-          <folding>
-            <element signature="e#10225#10226#0" expanded="true" />
-            <element signature="e#10308#10309#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TPNxl/HelpfulMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TPNxl/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="74" column="10" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/challenges/challenge1_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-          <folding>
-            <element signature="method#top#0;class#challenge1_1#0" />
-            <element signature="method#line#0;class#challenge1_1#0" />
-            <element signature="method#bottom#0;class#challenge1_1#0" />
-            <element signature="method#thick#0;class#challenge1_1#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/challenges/Challenge1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-          <folding>
-            <element signature="method#challengeBottom#0;class#Challenge1#0" />
-            <element signature="method#challengeTop#0;class#Challenge1#0" />
-            <element signature="method#challengeLine#0;class#Challenge1#0" />
-            <element signature="method#printChallenge#0;class#Challenge1#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems_for_17th/Circle/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems_for_17th/Circle/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-          <folding>
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-            <element signature="e#818#819#0" expanded="true" />
-            <element signature="e#849#850#0" expanded="true" />
-            <element signature="e#1410#1411#0" expanded="true" />
-            <element signature="e#1487#1488#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
-            <element signature="e#1558#1559#0" expanded="true" />
-            <element signature="e#1585#1586#0" expanded="true" />
-            <element signature="e#1634#1635#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems_for_17th/quadratic/Quadratic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
-          <folding>
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#1208#1209#0" expanded="true" />
-            <element signature="e#1252#1253#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/s.java" />
-    <entry file="file://$PROJECT_DIR$/src/problems_for_17th/GrpPrj3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/Scanner_name.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/String_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test/test.java" />
     <entry file="file://$PROJECT_DIR$/src/points/Point.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -815,27 +759,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/questionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p6_14_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/questionTest.java" />
     <entry file="file://$PROJECT_DIR$/src/grocery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -887,34 +811,164 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/U4_5_test/names.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="439" column="19" lean-forward="true" selection-start-line="439" selection-start-column="19" selection-end-line="439" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Scratchbook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/U4_5_test/baby_names.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="144">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/U4_5_test/names.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7024">
+          <caret line="439" column="19" selection-start-line="439" selection-start-column="19" selection-end-line="439" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/U4_5_test/Price.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="224">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CrazyEights/Backup_player.txt" />
+    <entry file="file://$PROJECT_DIR$/src/calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CrazyEights/Backup_deck.txt" />
+    <entry file="file://$PROJECT_DIR$/src/CrazyEights/Card_backup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-316">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Card#1;class#Card#0" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="method#toString#0;class#Card#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CrazyEights/Uno_deck.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CrazyEights/Deck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p6_14_9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Scratchbook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hangman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CrazyEights/TO_DOs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CrazyEights/EightsScratchbook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CrazyEights/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Card#1;class#Card#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CrazyEights/MainCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1348">
+          <caret line="125" column="30" selection-start-line="125" selection-start-column="30" selection-end-line="125" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CrazyEights/GenerateDeck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestServer/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestServer/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CrazyEights/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="161" column="9" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

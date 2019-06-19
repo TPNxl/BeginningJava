@@ -1,0 +1,41 @@
+These programs were all written by Timmy Nadolsky; written on 4/15/19 and 4/16/19.
+
+Here are the program descriptions:
+
+GrpPrj3.java is Unit 3 problem 78
+The program is about someone mortgaging some money. The program:
+- Prompts the user for the annual interest rate (as a decimal), the number of years the mortgage will be held, and the principal/amount got
+- Calculates the monthly payment using the formula in the book
+- Outputs:
+- The annual interest rate in %
+- The mortgage amount in $
+- The monthly payment in $ rounded to 1 cent
+- The total payment in $ rounded to 1 cent
+- The overpayment in $ and % rounded to 1 cent or 1/100%
+
+The package Circle is Unit 7 problem 70
+The program defines two classes: Circle and Client.
+Circle is an object class for a circle. It includes:
+- The center as a Point object (my own Point class that I wrote in past class days)
+- The radius of the circle as a double (I used that instead of int because it provides more versatility, even though the book says int)
+- Has constructors with overload, accessors, and mutators; specifically, it has accessor methods for the area and circumference of the circle
+Client is the class with the main method. It:
+- Creates a new Circle object with center at the origin and radius 1
+- Calls the toString() method of the Circle object
+- Prints its area and circumference
+
+The package quadratic is Unit 7 problem 78
+The program defines four classes: Complex, ComplexPair, Quadratic, and SolveEquation.
+Complex is an object class for a complex number. It includes:
+- Definition of a double for the real part and a double for the imaginary part
+- Usual constructors with overload, accessors, and mutators, including methods to check if the number is real or imaginary
+ComplexPair is an object class for a pair of complex numbers. It includes:
+- Definition of two Complex objects for storage
+- Usual constructors with overload (including the ability to make a ComplexPair object with two Complex objects), accessors, and mutators
+Quadratic is an object class for a quadratic equation. It includes:
+- Definition of doubles a, b, c for constants
+- Usual constructors with overload, accessors, and mutators, including methods to check if the given quadratic is linear or constant, to find the discriminant, and to find the roots
+SolveEquation is the client class with the main method. It:
+- Asks the user for a quadratic equation as a, b, and c
+- Says whether the quadratic has one real root, two unique real roots, two identical real roots, or two unique complex roots
+- Lists the roots, formatting correctly for real or imaginary roots
